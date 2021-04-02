@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0368025c-c172-4368-a491-881389962325" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qat1x6Qastv7WQMs6aHcm329QF" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Question4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom" timestamp="1617330166493">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166493" />
+    <state width="1282" height="225" key="GridCell.Tab.0.center" timestamp="1617330166493">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166493" />
+    <state width="1282" height="225" key="GridCell.Tab.0.left" timestamp="1617330166493">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166493" />
+    <state width="1282" height="225" key="GridCell.Tab.0.right" timestamp="1617330166493">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166493" />
+    <state width="1282" height="281" key="GridCell.Tab.1.bottom" timestamp="1617330166485">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166485" />
+    <state width="1282" height="281" key="GridCell.Tab.1.center" timestamp="1617330166484">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.1.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166484" />
+    <state width="1282" height="281" key="GridCell.Tab.1.left" timestamp="1617330166484">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.1.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166484" />
+    <state width="1282" height="281" key="GridCell.Tab.1.right" timestamp="1617330166485">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.1.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166485" />
+    <state width="1282" height="281" key="GridCell.Tab.2.bottom" timestamp="1617330166486">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.2.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166486" />
+    <state width="1282" height="281" key="GridCell.Tab.2.center" timestamp="1617330166485">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.2.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166485" />
+    <state width="1282" height="281" key="GridCell.Tab.2.left" timestamp="1617330166485">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.2.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166485" />
+    <state width="1282" height="281" key="GridCell.Tab.2.right" timestamp="1617330166486">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="281" key="GridCell.Tab.2.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617330166486" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
