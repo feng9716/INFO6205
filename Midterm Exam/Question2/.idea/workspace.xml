@@ -17,6 +17,11 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
@@ -53,22 +58,26 @@
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1282" height="225" key="GridCell.Tab.0.bottom" timestamp="1617332696132">
+    <state x="-1541" y="23" key="#Project_Structure" timestamp="1617332936085">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332696132" />
-    <state width="1282" height="225" key="GridCell.Tab.0.center" timestamp="1617332696131">
+    <state x="-1541" y="23" key="#Project_Structure/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332936085" />
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom" timestamp="1617332965823">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332696131" />
-    <state width="1282" height="225" key="GridCell.Tab.0.left" timestamp="1617332696130">
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332965823" />
+    <state width="1282" height="225" key="GridCell.Tab.0.center" timestamp="1617332965822">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332696130" />
-    <state width="1282" height="225" key="GridCell.Tab.0.right" timestamp="1617332696131">
+    <state width="1282" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332965822" />
+    <state width="1282" height="225" key="GridCell.Tab.0.left" timestamp="1617332965822">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332696131" />
+    <state width="1282" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332965822" />
+    <state width="1282" height="225" key="GridCell.Tab.0.right" timestamp="1617332965822">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1282" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617332965822" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

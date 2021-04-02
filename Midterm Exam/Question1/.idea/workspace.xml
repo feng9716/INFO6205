@@ -18,6 +18,12 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="RunManager" selected="Application.Solution">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -47,12 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -72,22 +72,22 @@
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1282" height="281" key="GridCell.Tab.0.bottom" timestamp="1617328547659">
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom" timestamp="1617333385997">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="281" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617328547659" />
-    <state width="1282" height="281" key="GridCell.Tab.0.center" timestamp="1617328547658">
+    <state width="1282" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617333385997" />
+    <state width="1282" height="225" key="GridCell.Tab.0.center" timestamp="1617333385996">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="281" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617328547658" />
-    <state width="1282" height="281" key="GridCell.Tab.0.left" timestamp="1617328547658">
+    <state width="1282" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617333385996" />
+    <state width="1282" height="225" key="GridCell.Tab.0.left" timestamp="1617333385995">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="281" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617328547658" />
-    <state width="1282" height="281" key="GridCell.Tab.0.right" timestamp="1617328547659">
+    <state width="1282" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617333385995" />
+    <state width="1282" height="225" key="GridCell.Tab.0.right" timestamp="1617333385996">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1282" height="281" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617328547659" />
+    <state width="1282" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1617333385996" />
     <state width="1282" height="281" key="GridCell.Tab.1.bottom" timestamp="1617328547660">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
@@ -126,7 +126,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solution.java</url>
-          <line>49</line>
+          <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

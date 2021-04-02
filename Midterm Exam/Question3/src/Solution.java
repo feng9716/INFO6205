@@ -15,7 +15,9 @@ public class Solution {
         System.out.println(getMaxConsecutiveOnes(nums_0));
     }
 
-    //Time Complexity: O(n) we need to iterate the whole array
+    //Time Complexity: O(n), where n is the length of array
+    // we need to iterate the whole array. from 0 to length - 1;
+
     //Space Complexity: O(1) we are not using extra space to store data;
     public static int getMaxConsecutiveOnes(int[] nums){
         int max_count = 0, count = 0;

@@ -24,6 +24,9 @@ public class Solution {
         ListNode eight = new ListNode(8);
         ListNode nine = new ListNode(9);
 
+        //80->90->95->99->100
+        ListNode eighty = new ListNode(80,new ListNode(90,new ListNode(95,new ListNode(99,new ListNode(100)))));
+
         //1->2->3->4->5
         one.next = two;
         two.next = three;
@@ -40,13 +43,20 @@ public class Solution {
         ListNode n1 = one;
         ListNode n2 = six;
 
-        System.out.println(areConverging(n1,n2));
+        System.out.println("Given example is: " + areConverging(n1,n2));
+        System.out.println("Two same ListNode: " + areConverging(n1,n1));
+        System.out.println("Two different ListNode: " + areConverging(n1,eighty));
+        System.out.println("One of the ListNode is null: " + areConverging(null,n1));
+        System.out.println("One of the ListNode is null: " + areConverging(n2,null));
+        System.out.println("For two null ListNodes: " + areConverging(null,null));
 
     }
 
-    // Time Complexity O(n+m), where n and m are size of two ListNode
+    // Time Complexity O(n+m), where n and m are size of two ListNode. Since we need to
+    // go through every ListNode in n1 and n2 and check if they are same ListNode
     // Space Complexity O(1), we did not use any extra space to store data;
     public static boolean areConverging(ListNode n1, ListNode n2){
+
         int length1 = 0, length2 = 0;
         length1 = getLength(n1);
         length2 = getLength(n2);
