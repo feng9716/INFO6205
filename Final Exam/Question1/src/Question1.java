@@ -1,4 +1,4 @@
-public class Main {
+public class Question1 {
 
     public static void main(String[] args) {
 	// write your code here
@@ -10,7 +10,7 @@ public class Main {
     }
 
     // Time Complexity O(M*N), M = row num of body, N = column num of body
-    // Space Complexity O(M*N) a m*n array needs to be initialized 
+    // Space Complexity O(M*N) a m*n array needs to be initialized
     private static String getResult(char[][] body, int maxTime){
         // There is no body array, infection cannot start
         if(body.length == 0) return "Cannot Infect.";
